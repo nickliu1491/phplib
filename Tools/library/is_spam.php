@@ -36,7 +36,9 @@ function is_spam($text, $file, $split = ':', $regex = false) {
 
 $file = 'spam.txt';
 $str = 'This string has cat, dog word';
-if (is_spam ( $str, $file ))
+if (is_spam ( $str, $file )) {
 	echo 'this is spam';
-else
+}
+else {
 	echo 'this is not spam';
+}
