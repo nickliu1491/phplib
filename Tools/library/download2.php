@@ -1,5 +1,5 @@
-<?php
-// Ç¿ÖÆÏÂÔØÎÄ¼þ
+ï»¿<?php
+// å¼ºåˆ¶ä¸‹è½½æ–‡ä»¶
 $filename = $_GET ['file']; // Get the fileid from the URL
                             // Query the file ID
 $query = sprintf ( "SELECT * FROM tableName WHERE id = '%s'", mysql_real_escape_string ( $filename ) );

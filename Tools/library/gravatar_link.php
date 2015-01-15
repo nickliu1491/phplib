@@ -1,4 +1,4 @@
-<?php
-// Í¨¹ýEmailÏÔÊ¾ÓÃ»§µÄGravatarÍ·Ïñ
+ï»¿<?php
+// é€šè¿‡Emailæ˜¾ç¤ºç”¨æˆ·çš„Gravatarå¤´åƒ
 $gravatar_link = 'http://www.gravatar.com/avatar/' . md5 ( $comment_author_email ) . '?s=32';
 echo '<img src="' . $gravatar_link . '" />';

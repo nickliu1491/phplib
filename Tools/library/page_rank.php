@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 /**
  * Alexa/Google Page Rank
  * @param unknown $page
