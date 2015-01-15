@@ -1,6 +1,6 @@
 <?php
 /**
- * Ê±¼ä²îÒì¼ÆËãº¯Êý
+ * æ—¶é—´å·®å¼‚è®¡ç®—å‡½æ•°
  * @param unknown $time
  * @return string
  */

@@ -1,6 +1,6 @@
 <?php
 /**
- * ºÚÃûµ¥¹ýÂË
+ * é»‘åå•è¿‡æ»¤
  * @param unknown $text
  * @param unknown $file
  * @param string $split

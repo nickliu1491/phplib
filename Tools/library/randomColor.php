@@ -1,6 +1,6 @@
 <?php
 /**
- * Ëæ»úÑÕÉ«Éú³ÉÆ÷
+ * éšæœºé¢œè‰²ç”Ÿæˆå™¨
  * @return string
  */
 function randomColor() {

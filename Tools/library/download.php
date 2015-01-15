@@ -1,6 +1,6 @@
 <?php
 
-// ´ÓÍøÂçÏÂÔØÎÄ¼þ
+// ä»Žç½‘ç»œä¸‹è½½æ–‡ä»¶
 set_time_limit ( 0 );
 // Supports all file types
 // URL Here:

@@ -1,6 +1,6 @@
 <?php
 /**
- * ¼ì²éÍøÕ¾ÊÇ·ñå´»ú
+ * æ£€æŸ¥ç½‘ç«™æ˜¯å¦å®•æœº
  * @param unknown $url
  * @return boolean
  */

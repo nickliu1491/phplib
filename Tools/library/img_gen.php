@@ -1,5 +1,5 @@
 <?php
-// �ü�ͼƬ
+// 裁剪图片
 $filename = "test.jpg";
 list ( $w, $h, $type, $attr ) = getimagesize ( $filename );
 $src_im = imagecreatefromjpeg ( $filename );
